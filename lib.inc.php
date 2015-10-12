@@ -1,5 +1,5 @@
 <?php
-
+echo "hello";
 /**
  * @todo Unique Random ID Generator function to be included
  * @todo HelpLine has to be added
