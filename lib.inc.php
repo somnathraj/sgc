@@ -1,5 +1,4 @@
 <?php
-echo "hello";
 /**
  * @todo Unique Random ID Generator function to be included
  * @todo HelpLine has to be added
@@ -415,7 +414,9 @@ class WebLib {
       CreateSchemas();
     }
   }
-
+public static function showname() {
+    echo "hello";
+  }
   /**
    * Checks if the current session is Valid
    *
